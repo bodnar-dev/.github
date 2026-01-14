@@ -47,11 +47,12 @@ Interested in collaborating or have questions? Feel free to:
 - 💬 Start a discussion
 - ⭐ Star repositories you find useful
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <div align="center">
 
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=bodnar-dev&show_icons=true&theme=radical&count_private=true)
+![GitHub followers](https://img.shields.io/github/followers/bodnar-dev?style=social)
+![GitHub stars](https://img.shields.io/github/stars/bodnar-dev?style=social)
 
 </div>
 
