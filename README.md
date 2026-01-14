@@ -5,7 +5,7 @@
 ### Building the Future, One Commit at a Time
 
 [![Organization](https://img.shields.io/badge/Organization-bodnar--dev-blue?style=for-the-badge)](https://github.com/bodnar-dev)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#-license)
 
 </div>
 
@@ -46,15 +46,6 @@ Interested in collaborating or have questions? Feel free to:
 - 🐛 Open an issue in any of our repositories
 - 💬 Start a discussion
 - ⭐ Star repositories you find useful
-
-## 📊 Activity
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/bodnar-dev?style=social)
-![GitHub stars](https://img.shields.io/github/stars/bodnar-dev?style=social)
-
-</div>
 
 ## 📜 License
 
