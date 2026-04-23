@@ -27,12 +27,12 @@ Welcome to **Bodnar Dev** - a space dedicated to innovation, learning, and build
 Our projects span across various technologies and domains:
 
 ```text
-💻 Languages:    JavaScript, TypeScript, Python, Go, Java, C#
+💻 Languages:    JavaScript, TypeScript, Go
 🎨 Frontend:     React, Vue, Next.js, Tailwind CSS
 ⚙️  Backend:      Node.js, Express, Django, FastAPI
 ☁️  Cloud:        AWS, Azure, GCP, Docker, Kubernetes
 📊 Databases:    PostgreSQL, MongoDB, Redis
-🔧 Tools:        Git, GitHub Actions, VS Code, IntelliJ
+🔧 Tools:        Git, GitHub Actions, VS Code, Zed Editor
 ```
 
 ## 🌟 Featured Projects
