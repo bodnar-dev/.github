@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Us
+## 🚀 About Me
 
 Welcome to **Bodnar Dev** - a space dedicated to innovation, learning, and building exceptional software solutions. We believe in the power of open source, collaboration, and continuous improvement.
 
